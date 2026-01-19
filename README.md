@@ -1,16 +1,50 @@
-## Hi there 👋
+# chronentropy
 
-<!--
-**chronentropy/chronentropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems engineer focused on building correct, performant, and production-grade software.
 
-Here are some ideas to get you started:
+I work primarily in **Rust** and **Go**, with an emphasis on:
+- Low-level systems and backend engineering
+- Correctness, validation, and failure modes
+- Performance, concurrency, and resource control
+- Production-quality tooling and infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile documents a year-long, disciplined sprint into systems programming, where every repository is treated as production software: tested, benchmarked, documented, and maintained.
+
+---
+
+## Focus Areas
+
+- **Systems Programming**: memory management, concurrency, OS-level concepts  
+- **Backend Engineering**: services, configuration, reliability, observability  
+- **Rust Internals**: ownership, lifetimes, unsafe code (when justified)  
+- **Engineering Discipline**: testing, CI, benchmarks, design clarity  
+
+---
+
+## Philosophy
+
+I optimize for:
+- Long-term maintainability over short-term hacks
+- Explicitness over magic
+- Boring, reliable systems over fragile abstractions
+
+Each project exists to solve a real engineering problem.
+
+---
+
+## Current Work
+
+- Production-grade configuration validation systems
+- CLI tooling with strict correctness guarantees
+- Systems-focused Rust projects built from first principles
+
+---
+
+## Contact
+
+- GitHub: https://github.com/chronentropy
+- LinkedIn: (to be added)
+
+---
+
+> “Order emerges from entropy when constraints are enforced.”
