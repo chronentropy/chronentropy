@@ -8,8 +8,6 @@ I work primarily in **Rust** and **Go**, with an emphasis on:
 - Performance, concurrency, and resource control
 - Production-quality tooling and infrastructure
 
-This profile documents a year-long, disciplined sprint into systems programming, where every repository is treated as production software: tested, benchmarked, documented, and maintained.
-
 ---
 
 ## Focus Areas
